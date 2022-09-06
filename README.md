@@ -1,3 +1,4 @@
+
 # Collaborative-Filtering-Recommender-System
 
 Recommender systems are tools for interacting with large and complex information spaces. They provide a personalized view of such information spaces, 
@@ -8,3 +9,5 @@ In this project we provide an example of a movie recommender system with collabo
 We illustrated how to build a model based collaborative filtering recommender system on Python and implemented Stochastic Gradient Descent for minimizing the cost function and used the model to make recommendations for the user.
 
 Dataset link: https://grouplens.org/datasets/movielens
+
+Greatlearning course : https://www.youtube.com/watch?v=tBDHiCDynqA
